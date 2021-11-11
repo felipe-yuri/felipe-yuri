@@ -6,7 +6,7 @@ Como pesquisador, desenvolveu projetos de iniciação cientifica nas áreas de: 
 ```
 # Presentation
 ```text
-Graduated in energy engineering and in science and technology (bachelor), from the Federal Rural University of the Semi-Árido (UFERSA). He is a specialist in analysis and development of systems aimed at business management, by the Federal Institute of Triangulo Mineiro (IFTM). He currently works at Sankhya as a devops developer.
+Graduated in energy engineering and in science and technology (bachelor), from the University Federal Rural of the Semi-Árido (UFERSA). He is a specialist in analysis and development of systems aimed at business management, by the Federal Institute of Triangulo Mineiro (IFTM). He currently works at Sankhya as a devops developer.
 
 As a researcher, he developed scientific initiation projects in the areas of: remote sensing and satellite image processing (LANDSAT-5, LANDSAT-7 and CBERS II); educational robotics; and automated irrigation. He also served as a computer teacher in a private school; volunteer teacher of basic physics in a pre-ENEM course; and intern at the Infrastructure Superintendence (SIN-UFERSA). At CEBRAC, where he taught the contents of: basic information technology; development of mobile applications in JAVA; and, automation with Arduino. At UNA College (Campus Karaíba), in Uberlândia-MG, he worked as an engineering laboratory technician. At CONPROVE Engenharia, he worked as an electronics technician.
 ```
